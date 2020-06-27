@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 5px;
+    text-align: center;
+  }
+  body {
+    background-image: url("CALS.jpg");
+}
+#SC{
+    font-size: 50px;
+    color:rgb(11, 11, 87);
+    background-color: rgb(182, 202, 216);
+}
+  .calculator {
+    width: 550px;
+    height: 550px;
+    background-color: #f0a90f;
+    box-shadow: 0px 0px 0px 10px #666;
+    border: 10px solid rgb(63, 4, 4);
+    border-radius: 30px;
+  }
+  #display {
+    width: 400px;
+    height: 40px;
+    text-align: right;
+    background-color: rgb(49, 29, 8);
+    border: 3px solid white;
+    font-size: 20px;
+    left: 2px;
+    top: 2px;
+    color: #ff4800;
+  }
+  .btnTop{
+    color: white;
+    background-color: #bb7777;
+    font-size: 20px;
+    margin: auto;
+    width: 60px;
+    height: 30px;
+  }
+  .btnNum {
+    color: white;
+    background-color: rgba(11, 6, 37, 0.911);
+    font-size: 20px;
+    margin: auto;
+    width: 60px;
+    height: 30px;
+  }
+  .btnMath {
+    color: white;
+    background-color: #c00391;
+    font-size: 20px;
+    margin: auto;
+    width: 60px;
+    height: 30px;
+  }
+  .btnOpps {
+    color: white;
+    background-color: #b65b00;
+    font-size: 20px;
+    margin: auto;
+    width: 60px;
+    height: 30px;
+  }
